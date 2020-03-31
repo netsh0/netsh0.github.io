@@ -1,13 +1,15 @@
 # Site Settings
-name: مهندسی اجتماعی
-title: مهندسی اجتماعی
-description: کتابچه نکات مهندسی اجتماعی
+name: شبکه و زیرساخت
+title: شبکه و زیرساخت
+description: کتابچه نکات امنیت شبکه و زیرساخت
 tags:
-  - social
-  - engineering
+  - شبکه
+  - زیر_ساخت
   - امنیت
-  - مهندسی_اجتماعی
-  - هکر
+  - network
+  - infrastructure
+  - security
+  - pentest
 show_hero: true
 
 
@@ -35,7 +37,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-162348012-1"
 language: "en"
 
 
